@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> @/components/canvas/RacingCanvas\":{\"id\":\"app/page.tsx -> @/components/canvas/RacingCanvas\",\"files\":[\"static/chunks/_app-pages-browser_src_components_canvas_RacingCanvas_tsx.js\"]}}"
